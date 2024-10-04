@@ -1,4 +1,4 @@
 # dipu_code
 For learning
 <br>
-Author-Ananta Kumar Mahanta
+Author-Ananta (Apna College)
